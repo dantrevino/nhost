@@ -33,7 +33,7 @@ If you open the `auth` schema, you'll see that your app already has a `users` ta
 
 ## Create todos table
 
-In Hasura Console, go to the **data** tab, then click **Create Table**. Name this table `todos`.
+In Hasura Console, go to the **data** tab, ensure the `public` schema is selected, then click **Create Table**. Name this table `todos`.
 
 ### Add frequently used columns
 
